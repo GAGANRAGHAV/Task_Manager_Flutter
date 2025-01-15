@@ -27,26 +27,6 @@ Setup
 4.  flutter build apk --release The APK will be available in the build/app/outputs/flutter-apk/ directory.
     
 
-API Integration
-
----------------
-
-### API Endpoint
-
-*   **URL:** https://jsonplaceholder.typicode.com/todos
-    
-
-### Example API Response:
-
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   jsonCopy code[    {      "userId": 1,      "id": 1,      "title": "delectus aut autem",      "completed": false    },    {      "userId": 1,      "id": 2,      "title": "quis ut nam facilis et officia qui",      "completed": true    }  ]   `
-
-### How API Data is Used
-
-*   title: Displayed as the task title.
-    
-*   completed: Indicates whether the task is completed or not.
-    
-
 Error Handling
 --------------
 
