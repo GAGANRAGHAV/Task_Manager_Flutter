@@ -18,13 +18,13 @@ Setup
 
 ### Steps to Run the Project
 
-1.  bashCopy codegit clone https://github.com/your-repo/task-manager-app.gitcd task-manager-app
+1.  git clone [https://github.com/your-repo/task-manager-app.gitcd task-manager-app](https://github.com/GAGANRAGHAV/Task_Manager_Flutter.git)
     
-2.  bashCopy codeflutter pub get
+2.  flutter pub get
     
-3.  bashCopy codeflutter run
+3.  flutter run
     
-4.  bashCopy codeflutter build apk --releaseThe APK will be available in the build/app/outputs/flutter-apk/ directory.
+4.  flutter build apk --release The APK will be available in the build/app/outputs/flutter-apk/ directory.
     
 
 API Integration
